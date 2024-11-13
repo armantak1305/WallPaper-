@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271768889681",
+    "project_id": "firenote119-5bf8f",
+    "storage_bucket": "firenote119-5bf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271768889681:android:7cf15000b25f86a0c78b70",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDTzxSWhZAZqwddvivuAii3pCTPbhV8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
